@@ -80,4 +80,3 @@ If you use this database for future publications, please cite
     year = "2024"
 }
 ```
-

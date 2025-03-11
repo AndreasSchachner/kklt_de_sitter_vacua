@@ -77,6 +77,10 @@ If you use this database for future publications, please cite
     primaryClass = "hep-th",
     reportNumber = "CERN-TH-2024-090",
     month = "6",
-    year = "2024"
+    year = "2024",
+    doi = "https://doi.org/10.5281/zenodo.15005040"
 }
 ```
+
+[![DOI](https://zenodo.org/badge/814472500.svg)](https://doi.org/10.5281/zenodo.15005040)
+
